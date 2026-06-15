@@ -11,7 +11,7 @@
 
 ### 🧑‍💻 IT Student · Full-Stack Developer · Builder of Things
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00F5A0&center=true&vCenter=true&width=600&lines=Full-Stack+Developer+in+the+Making;React+%7C+TypeScript+%7C+React+Native;Turning+Ideas+Into+Real+Products;Always+Exploring+New+Tech+%F0%9F%9A%80)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00F5A0&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;React+Native+%7C+Laravel+%7C+TypeScript;Turning+Ideas+Into+Real+Products;Always+Exploring+New+Tech+%F0%9F%9A%80)](https://git.io/typing-svg)
 
 </div>
 
@@ -27,17 +27,31 @@ When I'm not grinding on assignments, I'm shipping side projects, experimenting 
 
 ## 🚀 Project Highlights
 
-### 🎮 Gamified Habit Tracker
-> *React Native*
+### 🎮 HabitQuest — RPG Habit Tracker
+> *React Native · Expo · TypeScript · Supabase*
 
-A mobile app that turns your daily habits into a game. Track goals, earn rewards, level up your life — built with **React Native** for a smooth cross-platform experience.
+A production-level mobile app that turns your daily habits into an RPG adventure. Complete quests, earn XP, level up your character, join guilds, and compete in The Arena — all while building real-life habits.
+
+- 13-table Supabase schema with RLS policies
+- Full auth system: OTP, Google OAuth, biometric login
+- Real-time leaderboard, guild system, duel system, and quest engine
+- Built with Expo Router, NativeWind, and React Native Reanimated
+
+👉 [View Repo](https://github.com/Kentlui2/HabitQuest)
 
 ---
 
-### 🗺️ FruitMap — Provincial Produce Inventory System
-> *TypeScript · React · Tailwind CSS · QGIS*
+### 🛒 TriBee — E-Commerce Platform
+> *Laravel 11 · Blade · MySQL · Tailwind CSS*
 
-My capstone project. An interactive system that **inventories and geographically maps all fruits and vegetables** across our province, combining the power of **GIS mapping (QGIS)** with a modern web stack. Think Google Maps meets farm-to-table data.
+A full-featured e-commerce platform built as a modular group project. I served as **DevOps Lead** and built the entire **Orders & Checkout module** — a 3-step checkout flow with shipping, order review, payment summary (12% VAT, shipping fee, discounts), and an admin order management dashboard.
+
+- 3-step checkout: Shipping → Review → Confirm
+- Auto tax and shipping fee calculation
+- Admin order management with inline status updates
+- Led Git branching strategy and final integration
+
+👉 [View Repo](https://github.com/Kentlui2/TriBee)
 
 ---
 
@@ -45,13 +59,11 @@ My capstone project. An interactive system that **inventories and geographically
 
 ```js
 const kent = {
-  status:    "Exploring new tech 🌐",
+  status:    "Open to work 🌐",
   mindset:   "Always building, always learning",
-  nextGoal:  "Ship something new every month",
+  nextGoal:  "Land my first remote dev role",
 };
 ```
-
-I'm constantly expanding my toolkit — diving into emerging tools, frameworks, and patterns that push the boundaries of what I can build.
 
 ---
 
@@ -73,12 +85,13 @@ I'm constantly expanding my toolkit — diving into emerging tools, frameworks, 
 
 <div align="center">
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 </div>
